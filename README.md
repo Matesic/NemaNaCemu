@@ -18,7 +18,7 @@
  - [Z-library](https://z-lib.org/)
 
 ## Youtube channels
-- Science and facts
+- **Science and facts**
   - [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
   - [Vsauce](https://www.youtube.com/user/Vsauce)
   - [Veritasium](https://www.youtube.com/user/1veritasium)
@@ -30,16 +30,16 @@
   - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/videos)
   - [Seeker](https://www.youtube.com/user/DNewsChannel/videos)
   - [Tom Scott](https://www.youtube.com/user/enyay/videos)
-- Latest tech and gadgets
+- **Latest tech and gadgets**
   - [Unbox Therapy](https://www.youtube.com/channel/UCOe_y6KKvS3PdIfb9q9pGug)
   - [Marques Brownlee](https://www.youtube.com/channel/UCOe_y6KKvS3PdIfb9q9pGug)
   - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips/featured)
-- Films and games
+- **Films and games**
   - [The Film Theorists](https://www.youtube.com/user/FilmTheorists/videos)
   - [The Game Theorists](https://www.youtube.com/user/MatthewPatrick13)
   - [Honest Film Trailers](https://www.youtube.com/user/screenjunkies)
   - [Honest Game Trailers](https://www.youtube.com/user/curseentertainment/videos)
-- Good news
+- **Good news**
   - [SomeGoodNews](https://www.youtube.com/channel/UCOe_y6KKvS3PdIfb9q9pGug)
 - Shitposting
   - [Sciencephile the AI](https://www.youtube.com/channel/UC7BhHN8NyMMru2RUygnDXSg)
