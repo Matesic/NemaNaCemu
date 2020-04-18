@@ -41,7 +41,7 @@
   - [Honest Game Trailers](https://www.youtube.com/user/curseentertainment/videos)
 - **Good news**
   - [SomeGoodNews](https://www.youtube.com/channel/UCOe_y6KKvS3PdIfb9q9pGug)
-- Shitposting
+- **Shitposting**
   - [Sciencephile the AI](https://www.youtube.com/channel/UC7BhHN8NyMMru2RUygnDXSg)
   - [Internet Historian](https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw/videos)
   - [Between Two Ferns](https://www.youtube.com/watch?v=xrkPe-9rM1Q&list=PLFEE651C298476F00)
