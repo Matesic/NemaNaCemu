@@ -62,6 +62,7 @@
 ## Android/iOS
 - [AC Market](https://acmarketofficial.com/) (*Free versions of premium apps and more*)
 - [Youtube Vanced](https://vanced.app/) (*Youtube premium without ads. Download [microG](https://www.google.com/search?q=youtube+vanced+microg&rlz=1C1CHBF_enHR817HR817&oq=youtube+vanced+microg&aqs=chrome..69i57j69i64l2.4447j0j7&sourceid=chrome&ie=UTF-8) for logging in to your account*)
+- [Premium Deezer free](https://drive.google.com/file/d/14pPACcD0uppoauNxmcxy3XpU3O4HgLG_/view?usp=sharing) (**Android only**)
 
 ## PC Games
 - [FitGirl's Repacks](https://fitgirl-repacks.site/) (*Repacked cracked games: smaller download size, longer install*)
