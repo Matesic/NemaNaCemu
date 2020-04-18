@@ -5,8 +5,14 @@
 - [Diagram maker](https://app.diagrams.net/)
 - [Online Photoshop](https://www.photopea.com/)
 - [Online Paint](https://jspaint.app/#local:14066bffee5df)
-
 - [Youtube videos to mp3/mp4](https://www.y2mate.com/en11/convert-youtube)
+- [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+
+## Chrome
+- [Youtube ad blocker](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk?hl=hr)
+- [Ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=hr)
+- [Popup blocker](https://chrome.google.com/webstore/detail/pop-up-blocker-for-chrome/bkkbcggnhapdmkeljlodobbkopceiche)
+- [Currency converter](https://chrome.google.com/webstore/detail/currency-converter/dkpedpjjafnceedhomeijlphmjbblmdj)
 
 ## Free ebooks
  - [Z-library](https://z-lib.org/)
@@ -55,6 +61,7 @@
 
 ## Android/iOS
 - [AC Market](https://acmarketofficial.com/) (*Free versions of premium apps and more*)
+- [Youtube Vanced](https://vanced.app/) (*Youtube premium without ads. Download [microG](https://www.google.com/search?q=youtube+vanced+microg&rlz=1C1CHBF_enHR817HR817&oq=youtube+vanced+microg&aqs=chrome..69i57j69i64l2.4447j0j7&sourceid=chrome&ie=UTF-8) for logging in to your account*)
 
 ## PC Games
 - [FitGirl's Repacks](https://fitgirl-repacks.site/) (*Repacked cracked games: smaller download size, longer install*)
