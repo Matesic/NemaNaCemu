@@ -83,4 +83,4 @@
 - [PointerPointer](https://pointerpointer.com/)
 
 
-**Send me a message if any of these links are not working or sites are not up.**
+**Dm for suggestions and errors**
