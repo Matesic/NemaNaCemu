@@ -79,6 +79,3 @@
 - [Windows93](https://www.windows93.net/) (*I don't even know*)
 - [If the Moon were only 1 pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 - [PointerPointer](https://pointerpointer.com/)
-
-
-**Dm for suggestions and errors**
