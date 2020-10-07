@@ -1,5 +1,3 @@
-# Franova kolekcija kul stvari
-
 ## Online helpers
 - [Symbolab](https://www.symbolab.com/) (*Math solver*)
 - [Diagram maker](https://app.diagrams.net/)
