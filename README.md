@@ -6,7 +6,7 @@
 - [Online Paint](https://jspaint.app/#local:14066bffee5df)
 - [Youtube videos to mp3/mp4](https://www.y2mate.com/en11/convert-youtube)
 - [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
-- 
+
 ## Chrome extensions
 - [Youtube ad blocker](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk?hl=hr)
 - [Ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=hr)
