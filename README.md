@@ -22,7 +22,7 @@
 
 ## Watch online sites
 - [Reddit FullHD Movies](https://www.reddit.com/r/watchmoviesfullhd/) (*Find movies in FullHD*)
-- [Movies and Shows](https://www2.f2movies.to/)
+- [f2movies](https://www2.f2movies.to/) (*Stream movies and shows*)
 - [Sports](https://www.totalsportek.com/) (*Football, Formula, Boxing, Tennis and more*)
 
 ## Mobile
@@ -47,12 +47,12 @@
 ## Cool websites
 - [Music Map](https://www.music-map.com/) (*Find similar artists*)
 - [Library of Babel](https://libraryofbabel.info/) (*Library containing books with every possible combination of letters and words*)
-- [Reddit awesome websites](https://www.reddit.com/r/InternetIsBeautiful/)
 - [TempMail](https://temp-mail.org/) (*Disposable temporary e-mail*)
 - [This Person Does Not Exist](https://www.thispersondoesnotexist.com/) (*Computer generated human faces*)
-- [Windows93](https://www.windows93.net/) (*I don't even know*)
+- [Windows93](https://www.windows93.net/)
 - [If the Moon were only 1 pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 - [PointerPointer](https://pointerpointer.com/)
+- [Reddit r/internetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/) (*Find more awesome websites*)
 
 ## Torrent search engine
 - [1337x](https://1337x.to/)
