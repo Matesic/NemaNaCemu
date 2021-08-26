@@ -26,9 +26,9 @@
 - [Sports](https://www.totalsportek.com/) (*Football, Formula, Boxing, Tennis and more*)
 
 ## Mobile
-- [AC Market](https://acmarketofficial.com/) (*Free versions of premium apps and more*)
-- [Youtube Vanced(Premium)](https://vancedapp.com/) (*Free Youtube and Youtube Music*)
-- [Premium Deezer](https://drive.google.com/file/d/14pPACcD0uppoauNxmcxy3XpU3O4HgLG_/view?usp=sharing) (**Android only**)
+- [AC Market](https://acmarketofficial.com/) (*Free versions of premium apps and more(has premium Spotify)*)
+- [Youtube Vanced](https://vancedapp.com/) (*Free Youtube and Youtube Music*)
+- [Premium Deezer](https://drive.google.com/file/d/14pPACcD0uppoauNxmcxy3XpU3O4HgLG_/view?usp=sharing) (*Free deezer premium*)
 
 ## PC Games
 - [FitGirl's Repacks](https://fitgirl-repacks.site/) (*Repacked cracked games: smaller download size, longer install*)
